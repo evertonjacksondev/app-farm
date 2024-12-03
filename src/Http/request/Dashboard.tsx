@@ -5,7 +5,7 @@ export class DashboardRequest {
 
   constructor() {
     this.instance = axios.create({
-      baseURL: 'http://localhost:3000/v1/dashboard',
+      baseURL: 'https://application.integraja.com.br:8001/v1/dashboard',
     });
   }
 
