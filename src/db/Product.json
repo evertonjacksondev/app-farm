@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Soja",
+        "value": "Soja"
+    },
+    {
+        "id": 2,
+        "name": "Milho",
+        "value": "Milho"
+    },
+    {
+        "id": 3,
+        "name": "Algodão",
+        "value": "Algodão"
+    },
+    {
+        "id": 4,
+        "name": "Café",
+        "value": "Café"
+    },
+    {
+        "id": 5,
+        "name": "Cana de Açúcar",
+        "value": "Cana de Açúcar"
+    }
+]
