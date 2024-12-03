@@ -7,7 +7,7 @@ export class AgricultureRequest {
 
   constructor() {
     this.instance = axios.create({
-      baseURL: 'https://application.integraja.com.br:8001/v1/cultura',
+      baseURL: 'https://application.integraja.com.br:9001/v1/cultura',
     });
   }
 

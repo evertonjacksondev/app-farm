@@ -6,7 +6,7 @@ export class FarmRequest {
 
     constructor() {
       this.instance = axios.create({
-        baseURL: 'https://application.integraja.com.br:8001/v1/farm',
+        baseURL: 'https://application.integraja.com.br:9001/v1/farm',
       });
     }
   async createFarm(data: CreateFarmDto) {
